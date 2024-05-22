@@ -23,7 +23,7 @@ So far, we have completed the development of the homepage. Below are the details
 - Technologies Used: HTML, CSS (Bootstrap), JavaScript
 - Features Implemented:
   - Introduction to the service
-  - Navigation to other sections (appointments, login, registration)
+  - Navigation to other sections
   - Basic layout and styling
   - Responsive design to support various devices
 

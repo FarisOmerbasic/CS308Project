@@ -1,0 +1,21 @@
+{
+  "name": "cs308project",
+  "version": "1.0.0",
+  "description": "This project aims to develop an online management system for scheduling doctor’s appointments and facilitating communication in the public healthcare service of Bosnia and Herzegovina. The primary goal is to eliminate the need for physical visits to book appointments, reduce wait times, and enhance overall patient safety and convenience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  },
+  "dependencies": {
+    "hbs": "^4.2.0",
+    "html": "^1.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
